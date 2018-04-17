@@ -1,0 +1,2 @@
+C:\Users\ING\Desktop\LabPOO\car-rental-software-mpamestica\Lab3_19567517-1\obj\Debug\Lab3_19567517-1.csprojResolveAssemblyReference.cache
+C:\Users\ING\Desktop\LabPOO\car-rental-software-mpamestica\Lab3_19567517-1\obj\Debug\Lab3_19567517-1.csproj.CoreCompileInputs.cache
